@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Animal-web/static/css/main.f855e6bc.css",
+    "main.js": "/Animal-web/static/js/main.72f148f9.js",
+    "static/js/592.d4085cb2.chunk.js": "/Animal-web/static/js/592.d4085cb2.chunk.js",
+    "static/media/img-3.jpg": "/Animal-web/static/media/img-3.3b6070c45871c919d035.jpg",
+    "static/media/img-2.jpg": "/Animal-web/static/media/img-2.72e3ab30fd690b827114.jpg",
+    "static/media/img-1.jpg": "/Animal-web/static/media/img-1.304e021145b09be1e8b7.jpg",
+    "index.html": "/Animal-web/index.html",
+    "main.f855e6bc.css.map": "/Animal-web/static/css/main.f855e6bc.css.map",
+    "main.72f148f9.js.map": "/Animal-web/static/js/main.72f148f9.js.map",
+    "592.d4085cb2.chunk.js.map": "/Animal-web/static/js/592.d4085cb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.72f148f9.js"
+  ]
+}
